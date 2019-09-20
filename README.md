@@ -5,6 +5,7 @@ go get some dependency found on a StackOverflow forum to fix the problem. Most p
 error but the classpath look correct in the pom file.
 
 Day 2: I've gotten the endpoints to work, but am moving on to the next assignments due to the time ive spent on this.
+also implemented test on most of the facade methods. MIssing some on the endpoints test
 
 Day 3:
 Same project as day 2. Exceptions works like they should for the methods.
